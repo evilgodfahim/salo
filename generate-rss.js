@@ -3,34 +3,11 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const RSS = require("rss");
 
-const baseURL = "https://www.thedailystar.net";
-const targetURL = "https://www.thedailystar.net/opinion";
+const baseURL = "https://www.shomoyeralo.com";
+const targetURL = "https://www.shomoyeralo.com/menu/295";
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
 
 fs.mkdirSync("./feeds", { recursive: true });
-
-// ===== DATE PARSING =====
-function parseItemDate(raw) {
-  if (!raw || !raw.trim()) return new Date();
-
-  const trimmed = raw.trim();
-
-  const relMatch = trimmed.match(/^(\d+)\s+(minute|hour|day)s?\s+ago$/i);
-  if (relMatch) {
-    const n    = parseInt(relMatch[1], 10);
-    const unit = relMatch[2].toLowerCase();
-    const ms   = unit === "minute" ? n * 60_000
-               : unit === "hour"   ? n * 3_600_000
-               :                     n * 86_400_000;
-    return new Date(Date.now() - ms);
-  }
-
-  const d = new Date(trimmed);
-  if (!isNaN(d.getTime())) return d;
-
-  console.warn(`⚠️  Could not parse date: "${trimmed}" — using now()`);
-  return new Date();
-}
 
 // ===== FLARESOLVERR =====
 async function fetchWithFlareSolverr(url) {
@@ -53,28 +30,44 @@ async function generateRSS() {
     const htmlContent = await fetchWithFlareSolverr(targetURL);
     const $ = cheerio.load(htmlContent);
     const items = [];
+    const seen = new Set();
 
-    $("div.card").each((_, el) => {
-      const $card = $(el);
-
-      const titleElement = $card.find("h5.card-title a, h1.card-title a").first();
-      const title = titleElement.text().trim();
-      const href  = titleElement.attr("href");
-      if (!title || !href) return;
-
-      const link        = href.startsWith("http") ? href : baseURL + href;
-      const intro       = $card.find("div.card-intro").text().trim()
-                       || $card.find("p.intro").text().trim();
-      const author      = $card.find("div.author a").text().trim();
-      const rawDate     = $card.find("div.card-info span").first().text().trim();
-
+    function addItem(title, href, description = "") {
+      title = title.replace(/\s+/g, " ").trim();
+      if (!title || !href || seen.has(href)) return;
+      seen.add(href);
       items.push({
         title,
-        link,
-        description: intro || (author ? `By ${author}` : ""),
-        author,
-        date: parseItemDate(rawDate),   // always a valid Date object
+        link: href.startsWith("http") ? href : baseURL + href,
+        description: description.replace(/\s+/g, " ").trim(),
+        date: new Date(),
       });
+    }
+
+    // ── Lead article ──────────────────────────────────────────────────────────
+    // Structure: div.title_lead > a  (inside a div.m_none lead wrapper)
+    const $leadAnchor = $("div.title_lead a").first();
+    const leadTitle = $leadAnchor.text();
+    const leadHref  = $leadAnchor.attr("href");
+    // Excerpt lives in the sibling div with inline padding style
+    const leadDesc  = $leadAnchor
+      .closest("div.m_none")
+      .find("div[style*='padding: 15px 0 0 15px']")
+      .text()
+      .replace(/\.\.\.$/, "")   // strip trailing ellipsis
+      .trim();
+
+    addItem(leadTitle, leadHref, leadDesc);
+
+    // ── Grid articles (desktop cards only) ────────────────────────────────────
+    // Structure: div.col-lg-4.m_none > div.title_body > a
+    // Mobile mirrors use div.titleBTM — excluded automatically since they
+    // don't contain div.title_body, so no de-dup logic needed beyond seen set.
+    $("div.title_body a").each((_, el) => {
+      const $a   = $(el);
+      const title = $a.text();
+      const href  = $a.attr("href");
+      addItem(title, href);
     });
 
     console.log(`Found ${items.length} articles`);
@@ -82,20 +75,19 @@ async function generateRSS() {
     if (items.length === 0) {
       console.log("⚠️  No articles found, creating placeholder item");
       items.push({
-        title:       "No articles found yet",
-        link:        baseURL,
-        description: "RSS feed could not scrape any articles.",
-        author:      "",
+        title:       "কোনো নিবন্ধ পাওয়া যায়নি",
+        link:        targetURL,
+        description: "RSS ফিড কোনো নিবন্ধ স্ক্র্যাপ করতে পারেনি।",
         date:        new Date(),
       });
     }
 
     const feed = new RSS({
-      title:       "The Daily Star – Opinion",
-      description: "Latest opinion pieces from The Daily Star",
-      feed_url:    `${baseURL}/opinion`,
+      title:       "সময়ের আলো – মতামত",
+      description: "সময়ের আলো-র সর্বশেষ মতামত নিবন্ধ",
+      feed_url:    targetURL,
       site_url:    baseURL,
-      language:    "en",
+      language:    "bn",
       pubDate:     new Date().toUTCString(),
     });
 
@@ -103,9 +95,8 @@ async function generateRSS() {
       feed.item({
         title:       item.title,
         url:         item.link,
-        description: item.description,
-        author:      item.author || undefined,
-        date:        item.date,         // Date object → never "Invalid Date"
+        description: item.description || undefined,
+        date:        item.date,
       });
     });
 
@@ -116,17 +107,17 @@ async function generateRSS() {
     console.error("❌ Error generating RSS:", err.message);
 
     const feed = new RSS({
-      title:       "The Daily Star – Opinion (error fallback)",
-      description: "RSS feed could not scrape, showing placeholder",
-      feed_url:    `${baseURL}/opinion`,
+      title:       "সময়ের আলো – মতামত (error fallback)",
+      description: "RSS ফিড স্ক্র্যাপ করা সম্ভব হয়নি",
+      feed_url:    targetURL,
       site_url:    baseURL,
-      language:    "en",
+      language:    "bn",
       pubDate:     new Date().toUTCString(),
     });
     feed.item({
-      title:       "Feed generation failed",
-      url:         baseURL,
-      description: "An error occurred during scraping.",
+      title:       "ফিড তৈরি ব্যর্থ হয়েছে",
+      url:         targetURL,
+      description: "স্ক্র্যাপিংয়ের সময় একটি ত্রুটি ঘটেছে।",
       date:        new Date(),
     });
     fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
