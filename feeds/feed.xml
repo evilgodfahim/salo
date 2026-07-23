@@ -1,19 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[সময়ের আলো – মতামত (error fallback)]]></title>
-        <description><![CDATA[RSS ফিড স্ক্র্যাপ করা সম্ভব হয়নি]]></description>
+        <title><![CDATA[সময়ের আলো – মতামত]]></title>
+        <description><![CDATA[সময়ের আলো-র সর্বশেষ মতামত নিবন্ধ]]></description>
         <link>https://www.shomoyeralo.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 10:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 12:16:50 GMT</lastBuildDate>
         <atom:link href="https://www.shomoyeralo.com/menu/295" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 10:09:12 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[ফিড তৈরি ব্যর্থ হয়েছে]]></title>
-            <description><![CDATA[স্ক্র্যাপিংয়ের সময় একটি ত্রুটি ঘটেছে।]]></description>
-            <link>https://www.shomoyeralo.com/menu/295</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/menu/295</guid>
-            <pubDate>Thu, 23 Jul 2026 10:09:12 GMT</pubDate>
+            <title><![CDATA[মাদক নির্মূলে সামাজিক প্রতিরোধই মোক্ষম হাতিয়ার]]></title>
+            <description><![CDATA[ঊনবিংশ শতাব্দীর প্রথম দিকে ব্রিটিশরা চীনে আফিম পাচারের চেষ্টা চালায়। চীনা কর্মকর্তা লিন জেশুর দৃঢ় পদক্ষেপে সেই প্রচেষ্টা প্রতিহত হয়। মাদকবিরোধী আন্তর্জাতিক আন্দোলনের ইতিহাসে তার ভূমিকা বিশেষভাবে স্মরণীয়।]]></description>
+            <link>https://www.shomoyeralo.com/news/374013</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/374013</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ঢাকার মেট্রোরেল কি মরণফাঁদ?]]></title>
+            <link>https://www.shomoyeralo.com/news/373899</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373899</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রেলওয়ের প্রস্তাবিত আইন/ রেল খাত সংস্কারে জনস্বার্থই হোক অগ্রাধিকার]]></title>
+            <link>https://www.shomoyeralo.com/news/373778</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373778</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্বকাপের অর্থনীতি ও আমাদের ফুটবল]]></title>
+            <link>https://www.shomoyeralo.com/news/373777</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373777</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মেধার মানচিত্র : হোয়াইট-কলার কর্মশক্তির রূপান্তর]]></title>
+            <link>https://www.shomoyeralo.com/news/373776</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373776</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সাক্ষাৎকার/ ক্রস বর্ডার এডুকেশন ওপেন করতে চাই : আ ন ম এহছানুল হক মিলন]]></title>
+            <link>https://www.shomoyeralo.com/news/373752</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373752</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ভাঙল বিশ্বকাপের মিলনমেলা : মাঠের বাইরেও ফুটবলের জয়]]></title>
+            <link>https://www.shomoyeralo.com/news/373599</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373599</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সার্বভৌমত্বহীন প্রশাসনে ফিলিস্তিনের মুক্তি আসবে না]]></title>
+            <link>https://www.shomoyeralo.com/news/373598</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373598</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জুলাই : স্মৃতি, ন্যায়বিচার ও রাষ্ট্রগঠনের নৈতিক পাঠ]]></title>
+            <link>https://www.shomoyeralo.com/news/373597</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373597</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বন্যার ক্ষত/ পুনর্বাসনের পাশাপাশি প্রয়োজন দীর্ঘমেয়াদি প্রস্তুতি]]></title>
+            <link>https://www.shomoyeralo.com/news/373484</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373484</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[প্রকৃতির নীরব চিঠি : পাঠের সময় যায়নি এখনও]]></title>
+            <link>https://www.shomoyeralo.com/news/373483</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373483</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সরকারের পাঁচ মাস/ রাষ্ট্র পরিচালনায় স্বচ্ছতা ও জবাবদিহিতা এলো কতটা]]></title>
+            <link>https://www.shomoyeralo.com/news/373482</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373482</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পাহাড় বাঁচলে মানুষ বাঁচবে]]></title>
+            <link>https://www.shomoyeralo.com/news/373273</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373273</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[আইনশৃঙ্খলা ও ব্যবসার নিরাপত্তা/ চাঁদাবাজির নেপথ্যের শক্তিকে আইনের আওতায় আনতে হবে]]></title>
+            <link>https://www.shomoyeralo.com/news/373272</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373272</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[কে হবে বিশ্ব ফুটবল চ্যাম্পিয়ন]]></title>
+            <link>https://www.shomoyeralo.com/news/373271</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373271</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[খেলাপি ঋণ ব্যবস্থাপনা/ নতুন আইন করাই যথেষ্ট নয় জবাবদিহিও নিশ্চিত করতে হবে]]></title>
+            <link>https://www.shomoyeralo.com/news/373124</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/373124</guid>
+            <pubDate>Thu, 23 Jul 2026 12:16:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
