@@ -1,19 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[সময়ের আলো – মতামত (error fallback)]]></title>
-        <description><![CDATA[RSS ফিড স্ক্র্যাপ করা সম্ভব হয়নি]]></description>
+        <title><![CDATA[সময়ের আলো – মতামত]]></title>
+        <description><![CDATA[সময়ের আলো-র সর্বশেষ মতামত নিবন্ধ]]></description>
         <link>https://www.shomoyeralo.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 19:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 20:49:47 GMT</lastBuildDate>
         <atom:link href="https://www.shomoyeralo.com/menu/295" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 19:13:26 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[ফিড তৈরি ব্যর্থ হয়েছে]]></title>
-            <description><![CDATA[স্ক্র্যাপিংয়ের সময় একটি ত্রুটি ঘটেছে।]]></description>
-            <link>https://www.shomoyeralo.com/menu/295</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/menu/295</guid>
-            <pubDate>Mon, 03 Aug 2026 19:13:26 GMT</pubDate>
+            <title><![CDATA[বিনিয়োগের আস্থা ধরে রাখতে সংস্কারই এখন প্রধান পরীক্ষা]]></title>
+            <description><![CDATA[বাংলাদেশ সফর করে গেলেন যুক্তরাষ্ট্রের দক্ষিণ ও মধ্য এশিয়াবিষয়ক বিশেষ দূত সার্জিও গোর। তার সফরে ঢাকার অগ্রাধিকার ছিল বাণিজ্য ও বিনিয়োগ সম্প্রসারণ। ওয়াশিংটনের প্রধান আগ্রহ ছিল আঞ্চলিক নিরাপত্তা।]]></description>
+            <link>https://www.shomoyeralo.com/news/376021</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376021</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ভূমিকম্প : ঝুঁকির শহরে নিরাপত্তার পরীক্ষা]]></title>
+            <link>https://www.shomoyeralo.com/news/376020</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376020</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[চব্বিশের গণঅভ্যুত্থান : প্রবাসীদের স্বদেশচেতনা]]></title>
+            <link>https://www.shomoyeralo.com/news/376019</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376019</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[অদৃশ্য প্লাস্টিকের বিষচক্র : নতুন জনস্বাস্থ্য সংকট]]></title>
+            <link>https://www.shomoyeralo.com/news/375834</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375834</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[অতীত সরকারের খেয়ালখুশির মূল্য দিচ্ছে মিল্কভিটা / জনগণের করের টাকা অপচয়ের জবাবদিহি নিশ্চিত করতে হবে]]></title>
+            <link>https://www.shomoyeralo.com/news/375833</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375833</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ঘোষণার রাজনীতি, বাস্তবতার হিসাব]]></title>
+            <link>https://www.shomoyeralo.com/news/375832</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375832</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ভেজালের বাজারে নিরাপত্তার পরীক্ষা]]></title>
+            <link>https://www.shomoyeralo.com/news/375669</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375669</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মন্ত্রী ও উপদেষ্টাদের কর্তৃত্ব/ নির্বাহী ক্ষমতার সাংবিধানিক সীমারেখা]]></title>
+            <link>https://www.shomoyeralo.com/news/375668</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375668</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[প্রধানমন্ত্রী পদে তারেক রহমানের বিকল্প নেই/ নীতি ও কৌশল নির্ধারণে অপরিহার্য মির্জা ফখরুল]]></title>
+            <link>https://www.shomoyeralo.com/news/375611</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375611</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পাবলিক বিশ্ববিদ্যালয়ে ছাত্র সংসদ/ ক্যাম্পাসে চাই নির্দলীয় প্রতিনিধিত্ব]]></title>
+            <link>https://www.shomoyeralo.com/news/375488</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375488</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[দক্ষিণ এশিয়ায় জেন জির রাজনৈতিক জাগরণ]]></title>
+            <link>https://www.shomoyeralo.com/news/375487</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375487</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মার্কিন অভিবাসন নীতি / যুক্তরাষ্ট্রে প্রবাসী বাংলাদেশিদের সুযোগ ও শঙ্কা]]></title>
+            <link>https://www.shomoyeralo.com/news/375486</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375486</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[স্থানীয় সরকার নির্বাচন/ ভোটের আগেই ঝুঁকি নিয়ন্ত্রণ জরুরি]]></title>
+            <link>https://www.shomoyeralo.com/news/375130</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375130</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[আষাঢ়ী পূর্ণিমা/ বুদ্ধের প্রতিসন্ধি গ্রহণ থেকে মানবমুক্তির চিরন্তন শিক্ষা]]></title>
+            <link>https://www.shomoyeralo.com/news/375129</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375129</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্ব বাঘ দিবস / রয়েল বেঙ্গল টাইগার কেন সবার থেকে আলাদা]]></title>
+            <link>https://www.shomoyeralo.com/news/375128</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375128</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[টুথপেস্টে মাইক্রোপ্লাস্টিক / ভোক্তার সুরক্ষায় কঠোর নজরদারি চাই]]></title>
+            <link>https://www.shomoyeralo.com/news/374946</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/374946</guid>
+            <pubDate>Mon, 03 Aug 2026 20:49:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
