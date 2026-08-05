@@ -1,109 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[সময়ের আলো – মতামত]]></title>
-        <description><![CDATA[সময়ের আলো-র সর্বশেষ মতামত নিবন্ধ]]></description>
+        <title><![CDATA[সময়ের আলো – মতামত (error fallback)]]></title>
+        <description><![CDATA[RSS ফিড স্ক্র্যাপ করা সম্ভব হয়নি]]></description>
         <link>https://www.shomoyeralo.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 04:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 07:29:55 GMT</lastBuildDate>
         <atom:link href="https://www.shomoyeralo.com/menu/295" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 07:29:55 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[একাত্তরের ভিত্তি, চব্বিশের প্রত্যয়]]></title>
-            <description><![CDATA[বাংলাদেশের রাজনৈতিক পটপরিবর্তনে ২০২৪ সালের জুলাইয়ের ছাত্র আন্দোলন দীর্ঘ ঐতিহাসিক ধারারই অংশ, যেখানে নতুন প্রজন্ম কেবল একটি তাৎক্ষণিক দাবির জন্য নয়, বরং রাষ্ট্র ও সমাজের চরিত্র নিয়ে একটি]]></description>
-            <link>https://www.shomoyeralo.com/news/376442</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376442</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[জুলাইয়ের অসমাপ্ত অধ্যায় : রাষ্ট্র সংস্কারের পরীক্ষা]]></title>
-            <link>https://www.shomoyeralo.com/news/376439</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376439</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ছাত্র-জনতার গণঅভ্যুত্থান/ বৈষম্যবিরোধী রাষ্ট্রের অঙ্গীকার বাস্তবায়ন করতে হবে]]></title>
-            <link>https://www.shomoyeralo.com/news/376412</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376412</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[গ্যাসের ঘাটতি, নাগরিক ভোগান্তি/ জ্বালানি নিরাপত্তায় প্রয়োজন দীর্ঘমেয়াদি বাস্তবসম্মত পরিকল্পনা]]></title>
-            <link>https://www.shomoyeralo.com/news/376223</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376223</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[কাছের মানুষ ও কাচের মানুষ]]></title>
-            <link>https://www.shomoyeralo.com/news/376222</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376222</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ক্যাম্পাস রাজনীতির সেকাল ও একাল]]></title>
-            <link>https://www.shomoyeralo.com/news/376221</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376221</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বাংলাদেশ-যুক্তরাষ্ট্র সম্পর্কের নতুন সম্ভাবনা/ বিনিয়োগের আস্থা ধরে রাখতে সংস্কারই এখন প্রধান পরীক্ষা]]></title>
-            <link>https://www.shomoyeralo.com/news/376021</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376021</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ভূমিকম্প : ঝুঁকির শহরে নিরাপত্তার পরীক্ষা]]></title>
-            <link>https://www.shomoyeralo.com/news/376020</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376020</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[চব্বিশের গণঅভ্যুত্থান : প্রবাসীদের স্বদেশচেতনা]]></title>
-            <link>https://www.shomoyeralo.com/news/376019</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/376019</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[অদৃশ্য প্লাস্টিকের বিষচক্র : নতুন জনস্বাস্থ্য সংকট]]></title>
-            <link>https://www.shomoyeralo.com/news/375834</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375834</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[অতীত সরকারের খেয়ালখুশির মূল্য দিচ্ছে মিল্কভিটা / জনগণের করের টাকা অপচয়ের জবাবদিহি নিশ্চিত করতে হবে]]></title>
-            <link>https://www.shomoyeralo.com/news/375833</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375833</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ঘোষণার রাজনীতি, বাস্তবতার হিসাব]]></title>
-            <link>https://www.shomoyeralo.com/news/375832</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375832</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ভেজালের বাজারে নিরাপত্তার পরীক্ষা]]></title>
-            <link>https://www.shomoyeralo.com/news/375669</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375669</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[মন্ত্রী ও উপদেষ্টাদের কর্তৃত্ব/ নির্বাহী ক্ষমতার সাংবিধানিক সীমারেখা]]></title>
-            <link>https://www.shomoyeralo.com/news/375668</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375668</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[প্রধানমন্ত্রী পদে তারেক রহমানের বিকল্প নেই/ নীতি ও কৌশল নির্ধারণে অপরিহার্য মির্জা ফখরুল]]></title>
-            <link>https://www.shomoyeralo.com/news/375611</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375611</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[পাবলিক বিশ্ববিদ্যালয়ে ছাত্র সংসদ/ ক্যাম্পাসে চাই নির্দলীয় প্রতিনিধিত্ব]]></title>
-            <link>https://www.shomoyeralo.com/news/375488</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/news/375488</guid>
-            <pubDate>Wed, 05 Aug 2026 04:50:24 GMT</pubDate>
+            <title><![CDATA[ফিড তৈরি ব্যর্থ হয়েছে]]></title>
+            <description><![CDATA[স্ক্র্যাপিংয়ের সময় একটি ত্রুটি ঘটেছে।]]></description>
+            <link>https://www.shomoyeralo.com/menu/295</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/menu/295</guid>
+            <pubDate>Wed, 05 Aug 2026 07:29:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
