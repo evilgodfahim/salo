@@ -1,19 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[সময়ের আলো – মতামত (error fallback)]]></title>
-        <description><![CDATA[RSS ফিড স্ক্র্যাপ করা সম্ভব হয়নি]]></description>
+        <title><![CDATA[সময়ের আলো – মতামত]]></title>
+        <description><![CDATA[সময়ের আলো-র সর্বশেষ মতামত নিবন্ধ]]></description>
         <link>https://www.shomoyeralo.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 13:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 14:22:46 GMT</lastBuildDate>
         <atom:link href="https://www.shomoyeralo.com/menu/295" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 13:37:31 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[ফিড তৈরি ব্যর্থ হয়েছে]]></title>
-            <description><![CDATA[স্ক্র্যাপিংয়ের সময় একটি ত্রুটি ঘটেছে।]]></description>
-            <link>https://www.shomoyeralo.com/menu/295</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/menu/295</guid>
-            <pubDate>Thu, 20 Aug 2026 13:37:31 GMT</pubDate>
+            <title><![CDATA[গৌরব, পরিবর্তন ও রাজনৈতিক বাস্তবতা]]></title>
+            <description><![CDATA[বাংলাদেশের শাসনতান্ত্রিক ইতিহাসে রাষ্ট্রপ্রধানের পদটি এক অনন্য গৌরব, মর্যাদা ও সর্বোচ্চ সাংবিধানিক ঐতিহ্যের প্রতীক হিসেবে বিবেচিত। ১৯৭১ সালের স্বাধীনতা সংগ্রামের মধ্য দিয়ে জন্ম নেওয়া গণপ্রজাতন্ত্রী এই বদ্বীপে রাষ্ট্রপতির]]></description>
+            <link>https://www.shomoyeralo.com/news/379239</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/379239</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ধারণক্ষমতার দ্বিগুণের বেশি বন্দি/ কারাগারে বন্দির চাপ কমাতে মামলাজট দূর করতে হবে]]></title>
+            <link>https://www.shomoyeralo.com/news/379238</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/379238</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[অর্থবছর পুনর্বিন্যাস ও এসআরবি গঠনের উদ্যোগ/ সংস্কারের সুফল নিশ্চিত করতে চাই সুষ্ঠু বাস্তবায়ন]]></title>
+            <link>https://www.shomoyeralo.com/news/379084</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/379084</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্ব মানবতা দিবস : মানবাধিকার কর্মীদের নিরাপত্তা কোথায়]]></title>
+            <link>https://www.shomoyeralo.com/news/379083</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/379083</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[তারেক রহমানের উদ্যোগ : জনমনে আশার সঞ্চার]]></title>
+            <link>https://www.shomoyeralo.com/news/379082</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/379082</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ইতিহাসের আড়ালে থাকা কিংবদন্তি রাজনীতিক শওকত আলী]]></title>
+            <link>https://www.shomoyeralo.com/news/379041</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/379041</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মূল্যবোধের অবক্ষয় : অন্ধ প্রতিযোগিতার অবসান হোক]]></title>
+            <link>https://www.shomoyeralo.com/news/378924</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378924</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিদ্যুৎ ও জ্বালানির অপচয় বন্ধে উদ্যোগ নেই]]></title>
+            <link>https://www.shomoyeralo.com/news/378923</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378923</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ভেজাল কৃষি রাসায়নিক/ খাদ্যনিরাপত্তার স্বার্থে চাই কঠোর নজরদারি]]></title>
+            <link>https://www.shomoyeralo.com/news/378750</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378750</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[দুই দেশের ভূমিকম্প/ বাংলাদেশের আগাম প্রস্তুতি]]></title>
+            <link>https://www.shomoyeralo.com/news/378749</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378749</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[টিকার পরও হামের প্রাদুর্ভাব : কিছু জরুরি প্রশ্ন]]></title>
+            <link>https://www.shomoyeralo.com/news/378746</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378746</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জিপিএ-৫ ও লুকিয়ে থাকা অন্ধকার রূপ]]></title>
+            <link>https://www.shomoyeralo.com/news/378745</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378745</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জাহাজভাঙা শিল্পে শ্রমিকের নিরাপত্তা/ কাগুজে অডিট নয়, চাই কার্যকর নজরদারি]]></title>
+            <link>https://www.shomoyeralo.com/news/378555</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378555</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[চাইল্ডকেয়ার খাতে উদ্যোক্তা তৈরির নতুন সম্ভাবনা]]></title>
+            <link>https://www.shomoyeralo.com/news/378554</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378554</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রাষ্ট্রপতি নির্বাচনে ৭০ অনুচ্ছেদের প্রয়োগ নেই]]></title>
+            <link>https://www.shomoyeralo.com/news/378553</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378553</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[উদ্ভাবনই গড়বে বাংলাদেশের খাদ্যশিল্পের ভবিষ্যৎ]]></title>
+            <link>https://www.shomoyeralo.com/news/378383</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/378383</guid>
+            <pubDate>Thu, 20 Aug 2026 14:22:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
