@@ -1,19 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[সময়ের আলো – মতামত (error fallback)]]></title>
-        <description><![CDATA[RSS ফিড স্ক্র্যাপ করা সম্ভব হয়নি]]></description>
+        <title><![CDATA[সময়ের আলো – মতামত]]></title>
+        <description><![CDATA[সময়ের আলো-র সর্বশেষ মতামত নিবন্ধ]]></description>
         <link>https://www.shomoyeralo.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 18:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 00:47:48 GMT</lastBuildDate>
         <atom:link href="https://www.shomoyeralo.com/menu/295" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 18:27:54 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
         <language><![CDATA[bn]]></language>
         <item>
-            <title><![CDATA[ফিড তৈরি ব্যর্থ হয়েছে]]></title>
-            <description><![CDATA[স্ক্র্যাপিংয়ের সময় একটি ত্রুটি ঘটেছে।]]></description>
-            <link>https://www.shomoyeralo.com/menu/295</link>
-            <guid isPermaLink="true">https://www.shomoyeralo.com/menu/295</guid>
-            <pubDate>Wed, 18 Nov 2026 18:27:54 GMT</pubDate>
+            <title><![CDATA[দোষারোপ নয়, সমাধানের পথ খুঁজতে হবে]]></title>
+            <description><![CDATA[সশস্ত্র মুক্তিযুদ্ধের মধ্য দিয়ে জন্ম নেওয়া স্বাধীন ও সার্বভৌম বাংলাদেশ উর্বর পলিমাটির দেশ। এখানে সারা বছরই কোনো না কোনো সংকট লেগে থাকে। এ কারণে আমাদের সমাজে এক ধরনের]]></description>
+            <link>https://www.shomoyeralo.com/news/396474</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396474</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রূপপুরের বিদ্যুৎ জাতীয় গ্রিডে/ পারমাণবিক বিদ্যুতের যুগে বাংলাদেশ]]></title>
+            <link>https://www.shomoyeralo.com/news/396473</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396473</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জাতীয় গ্রিডে রূপপুরের বিদ্যুৎ / জ্বালানি নিরাপত্তায় নতুন সম্ভাবনা]]></title>
+            <link>https://www.shomoyeralo.com/news/396280</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396280</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পোশাক খাতে অস্থিরতায় কমবে রফতানি আয়]]></title>
+            <link>https://www.shomoyeralo.com/news/396279</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396279</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[গণমানুষের অধিকার ও মুক্তির সংগ্রামে অমলিন ভাসানী]]></title>
+            <link>https://www.shomoyeralo.com/news/396278</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396278</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ডেঙ্গুতে হারিয়ে যাচ্ছে আমাদের শিশুরা]]></title>
+            <link>https://www.shomoyeralo.com/news/396225</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396225</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[নবান্ন উৎসব : কৃষকের মুখে হাসি ফুটুক]]></title>
+            <link>https://www.shomoyeralo.com/news/396062</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396062</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সম্পূরক পরীক্ষা হোক দ্বিতীয় সুযোগ, পাসের সহজ পথ নয়]]></title>
+            <link>https://www.shomoyeralo.com/news/396061</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396061</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[আইনশৃঙ্খলা ও জননিরাপত্তা : অপরাধ দমনে কার্যকর ব্যবস্থা নিন]]></title>
+            <link>https://www.shomoyeralo.com/news/396060</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/396060</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশের আমলাতন্ত্র, আইন-আদালত ও ঔপনিবেশিক শাসনের দীর্ঘ ছায়া]]></title>
+            <link>https://www.shomoyeralo.com/news/395883</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/395883</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ব্যাংক খাতের সংকট/ খেলাপি সংস্কৃতি থেকে বেরিয়ে আসতে হবে]]></title>
+            <link>https://www.shomoyeralo.com/news/395871</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/395871</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[শৃঙ্খলার নামে রাজস্ব আদায়, বাস্তবে কতটা বদলাবে সড়ক]]></title>
+            <link>https://www.shomoyeralo.com/news/395869</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/395869</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ফাঁসির দণ্ডপ্রাপ্ত রাজনীতিবিদের স্বেচ্ছায় ফিরে আসা]]></title>
+            <link>https://www.shomoyeralo.com/news/395868</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/395868</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[শ্রমিক অসন্তোষে উৎপাদন ব্যাহত, ক্রেতাদের আস্থা কমছে/ পোশাক শিল্পের সংকট কাটাতে সমন্বিত উদ্যোগ চাই]]></title>
+            <link>https://www.shomoyeralo.com/news/395652</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/395652</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[আজ জাতীয় কৃষি দিবস / কৃষক বাঁচলে বাঁচবে কৃষি, বাঁচবে দেশ]]></title>
+            <link>https://www.shomoyeralo.com/news/395651</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/395651</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[শেখ হাসিনার দেশে ফেরা ও ভারতের কূটনীতি]]></title>
+            <link>https://www.shomoyeralo.com/news/395648</link>
+            <guid isPermaLink="true">https://www.shomoyeralo.com/news/395648</guid>
+            <pubDate>Thu, 19 Nov 2026 00:47:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
